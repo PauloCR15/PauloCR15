@@ -4,7 +4,7 @@ passionate computere Computer Science and security professional 🌟.
 
 ### About me.
 
-* Programming languages: Java, C++, C# and SQL
+* Programming languages: Java, C++, C#
 * Experience in university projects
 * Web development with HTML and CSS
 
