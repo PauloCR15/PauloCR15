@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm PauloCR15 
+passionate computere Computer Science and security professional 🌟.
+
+About me.
+Programming languages: Java, C++, C# and SQL
+Experience in university projects
+Web development with HTML and CSS
+Certification
+Comptia Security+ SY0-601: Important Concepts for Cybersecurity
 
 <!--
 **PauloCR15/PauloCR15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
