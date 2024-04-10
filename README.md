@@ -1,13 +1,13 @@
 ### Hi there 👋
 I'm PauloCR15 
 passionate computere Computer Science and security professional 🌟.
-
+---
 ### About me.
 
 * Programming languages: Java, C++, C#
 * Experience in university projects
 * Web development with HTML and CSS
-
+---
 ### Certifications 
 
 * Comptia Security+ SY0-601: Important Concepts for Cybersecurity
