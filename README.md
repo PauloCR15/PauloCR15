@@ -32,9 +32,9 @@
 - **LDAP Authentication Integration** → .NET API integration with Active Directory authentication.
 - **Cybersecurity Labs** → Ethical hacking practice in private lab environments.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=paulocr15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=paulocr15&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=paulocr15&theme=dark&hide_border=false&layout=compact)
+# 🎯 Current Focus:
+- Offensive Security
+- Pentesting Labs
+- Cloud Security
+- Backend Security
+- Active Directory Security
