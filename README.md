@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently focused on cybersecurity, ethical hacking labs, and occasionally building backend projects with C#/.NET.
+- 🔭 I’m currently focused on cybersecurity, ethical hacking labs, and building backend projects with C#/.NET.
 - 🤝 I’m looking to collaborate on cybersecurity, cloud, and software development projects.
 - 🛡️ I’m looking for help with advanced pentesting, cloud security, and DevSecOps practices.
 - 🌱 I’m currently learning offensive security, cloud security, and improving my Microsoft Azure skills.
