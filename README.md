@@ -1,10 +1,9 @@
 # 💫 About Me:
-- 🔭 I’m currently focused on cybersecurity, ethical hacking labs, and building backend projects with C#/.NET.
-- 🤝 I’m looking to collaborate on cybersecurity, cloud, and software development projects.
-- 🛡️ I’m looking for help with advanced pentesting, cloud security, and DevSecOps practices.
-- 🌱 I’m currently learning offensive security, cloud security, and improving my Microsoft Azure skills.
+- 🔭 I’m currently focused on cybersecurity labs, ethical hacking, and backend development with C#/.NET.
+- 🤝 I’m open to collaborating on cybersecurity, cloud, and software development projects.
+- 🛡️ Currently expanding my knowledge in advanced pentesting, DevSecOps, Active Directory security, and Microsoft Azure.
 - 💬 Ask me about cybersecurity, networking, Linux, C#, SQL, APIs, and backend development.
-- ⚡ Fun fact: I graduated with honors in Computer Engineering (GPA 9.62) and built a real-world project for Municipalidad de Cartago.
+- ⚡ Graduated with honors in Computer Engineering (GPA 9.62) and developed a real-world platform for Municipalidad de Cartago.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-picado/)
